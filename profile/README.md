@@ -21,7 +21,8 @@
 - `p6m7g8/p6-slab-graphql-schema` - Types for Slab's GraphQL API
 
 ## Website stuff
-
+- `p6m7g8/p6-domains` - Domains
+- `p6m7g8/p6-domain-records` - DNS Records
 - `p6m7g8/p6-cdk-gollucci.io` - gollucci.io website
 - `p6m7g8/p6m7g8.github.io` - P6M7G8 Website
 - `p6m7g8/p6-cdktf-github-p6m7g8` - P6M7G8 Repository Manager
