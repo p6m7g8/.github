@@ -4,12 +4,6 @@
 
 - `p6m7g8/gh-parallel` P6 Github CLI Extension to supercharge cloning/syncing with parallelism
 
-## Lucky Dog Amimal Resuce (LDAR) 501c(3)
-
-- `p6m7g8/p6-ldar-chrome-image-brander` - Lucky Dog Animal Rescue 501c(3) chrome plugin to upload images for branding
-- `p6m7g8/p6-ldar-cdk-projen-brand-image` - Lucky Dog Animal Rescue 501c(3) pet image brander
-- `p6m7g8/p6-ldar-portal-scraper` - Lucky Dog Animal Rescue 501c(3) Scrape and download images from portal
-
 ## Published CDK Solutions
 
 - `p6m7g8/p6-cdk-name` -r AWS CDK setups up a Custom Resource via Cloud Formation which sets the AWS IAM Account Alias
@@ -23,15 +17,15 @@
 ## Website stuff
 - `p6m7g8/p6-domains` - Domains
 - `p6m7g8/p6-domain-records` - DNS Records
-- `p6m7g8/p6-cdk-gollucci.io` - gollucci.io website
 - `p6m7g8/p6m7g8.github.io` - P6M7G8 Website
-- `p6m7g8/p6-cdktf-github-p6m7g8` - P6M7G8 Repository Manager
+- `p6m7g8/p6-cdktf-github-p6m7g8` - P6M7G8 Github Organization Repository Manager
 
 ## sh/zsh extensions
 
 - `p6m7g8/p6-cirrus` - opinionated CLI actions
 - `p6m7g8/p6-zsh-projen-plugin` - projen ohmyzsh plugin
 - `p6m7g8/p6-zsh-sam-plugin` - AWS SAM ohmyzsh plugin
+- `p6m7g8/p6-zsh-cdktf-plugin` - CDKTF ohmyzsh plugin
 
 ## projen
 
