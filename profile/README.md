@@ -6,7 +6,7 @@
 
 ## Published CDK Solutions
 
-- `p6m7g8/p6-cdk-name` -r AWS CDK setups up a Custom Resource via Cloud Formation which sets the AWS IAM Account Alias
+- `p6m7g8/p6-cdk-namer` AWS CDK setups up a Custom Resource via Cloud Formation which sets the AWS IAM Account Alias
 - `p6m7g8/p6-cdk-landing-zone` - AWS CDK Landing Zone solution
 
 ## Experimental CDK Solutions
