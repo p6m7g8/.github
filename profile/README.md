@@ -69,6 +69,7 @@
 - `p6m7g8-dotfiles/p6df-go`
 - `p6m7g8-dotfiles/p6df-java`
 - `p6m7g8-dotfiles/p6df-js`
+- `p6m7g8-dotfiles/p6df-eslint`
 - `p6m7g8-dotfiles/p6df-julia`
 - `p6m7g8-dotfiles/p6df-lua`
 - `p6m7g8-dotfiles/p6df-perl`
@@ -100,8 +101,8 @@
 
 ### Other Cloud Service Providers
 
-- `p6m7g8-dotfiles/p6df-armkit`
 - `p6m7g8-dotfiles/p6df-azure`
+- `p6m7g8-dotfiles/p6df-cloudflare`
 - `p6m7g8-dotfiles/p6df-gcp`
 - `p6m7g8-dotfiles/p6df-oci`
 
@@ -138,7 +139,6 @@
 
 ### AI/ML
 
-- `p6m7g8-dotfiles/p6df-h20`
 - `p6m7g8-dotfiles/p6df-jupyter`
 
 ### CLI / Version Control
@@ -153,6 +153,7 @@
 
 ### Other stuff
 
+- `p6m7g8-dotfiles/p6df-1password`
 - `p6m7g8-dotfiles/p6df-elasticsearch`
 - `p6m7g8-dotfiles/p6df-graphql`
 - `p6m7g8-dotfiles/p6df-jenkins`
@@ -160,11 +161,6 @@
 - `p6m7g8-dotfiles/p6df-kafka`
 - `p6m7g8-dotfiles/p6df-kibana`
 - `p6m7g8-dotfiles/p6df-slack`
-
-### FreeBSD
-
-- `p6m7g8-dotfiles/p6df-poudriere`
-- `p6m7g8-dotfiles/p6df-freebsd-bugzilla`
 
 ## "POSIX.2" shell libraries
 
