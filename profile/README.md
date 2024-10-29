@@ -8,15 +8,13 @@
 
 - `p6m7g8/p6-cdk-namer` AWS CDK setups up a Custom Resource via Cloud Formation which sets the AWS IAM Account Alias
 - `p6m7g8/p6-cdk-landing-zone` - AWS CDK Landing Zone solution
-
-## Experimental CDK Solutions
-
-- `p6m7g8/p6-cdk-github-cve-alerter` - Github Alerts via GraphQL to you
-- `p6m7g8/p6-slab-graphql-schema` - Types for Slab's GraphQL API
+- `p6m7g8/p6-cdk-website-plus` - AWS CDK Advanced Website w/ IPv6, CloudFront, and http -> https
+- `p6m7g8/p6-cdk-s3-protector` - AWS CDK S3 Real-Time protector for compliance and security
 
 ## Website stuff
 - `p6m7g8/p6-domains` - Domains
 - `p6m7g8/p6-domain-records` - DNS Records
+- `p6m7g8/p6-sites` - Websites
 - `p6m7g8/p6m7g8.github.io` - P6M7G8 Website
 - `p6m7g8/p6-cdktf-github-p6m7g8` - P6M7G8 Github Organization Repository Manager
 
@@ -32,24 +30,14 @@
 - `p6m7g8/p6-projen-project-awesome-list` - projen external project for Awesome Lists
 - `p6m7g8/awesome-projen` - P6M7G8's Awesome Projen
 
-## We like statistics
-
-- `p6m7g8/p6-rb-craps` - A Dice simulator with player engines and stats in ruby.
-- `p6m7g8/p6-py-craps` - A Dice simulator with player engines and stats in python
-- `p6m7g8/p6-projen-ts-craps` - A Dice simulator with player engines and stats in typescript w/ projen
-- `p6m7g8/p6-ts-craps` - A Dice simulator with player engines and stats in typescript.
-- `p6m7g8/p6-rails-craps` - A Dice simulator with player engines and stats in ruby
-- `p6m7g8/p6-go-craps` - A Dice simulator with player engines and stats in go
-- `p6m7g8/p6-rust-craps` - A Dice simulator with player engines and stats in rust
-
 ## P6 Dotfiles
 
 ### Framework
 
 - `p6m7g8-dotfiles/p6df-core`
-- `p6m7g8-dotfiles/p6ctl`
-- `p6m7g8-dotfiles/p6df-bash`
+- `p6m7g8-dotfiles/p6df`
 - `p6m7g8-dotfiles/p6df-zsh`
+- `p6m7g8-dotfiles/p6df-bash`
 
 ### Modules
 
@@ -64,16 +52,18 @@
 
 ### Languages
 
-- `p6m7g8-dotfiles/p6df-R`
 - `p6m7g8-dotfiles/p6df-c`
+- `p6m7g8-dotfiles/p6df-cucumber`
+- `p6m7g8-dotfiles/p6df-eslint`
 - `p6m7g8-dotfiles/p6df-go`
 - `p6m7g8-dotfiles/p6df-java`
 - `p6m7g8-dotfiles/p6df-js`
-- `p6m7g8-dotfiles/p6df-eslint`
 - `p6m7g8-dotfiles/p6df-julia`
 - `p6m7g8-dotfiles/p6df-lua`
 - `p6m7g8-dotfiles/p6df-perl`
+- `p6m7g8-dotfiles/p6df-playwright`
 - `p6m7g8-dotfiles/p6df-python`
+- `p6m7g8-dotfiles/p6df-R`
 - `p6m7g8-dotfiles/p6df-rails`
 - `p6m7g8-dotfiles/p6df-ruby`
 - `p6m7g8-dotfiles/p6df-rust`
@@ -82,21 +72,22 @@
 
 ### Editors/IDEs
 
+- `p6m7g8-dotfiles/p6df-solidity`
 - `p6m7g8-dotfiles/p6df-tmux`
 - `p6m7g8-dotfiles/p6df-vim`
 - `p6m7g8-dotfiles/p6df-vscode`
 - `p6m7g8-dotfiles/p6df-wakatime`
-- `p6m7g8-dotfiles/p6df-solidity`
 
 ### RMDB/NoSQL/NewSQL/Data
 
 - `p6m7g8-dotfiles/p6df-crunchydb`
+- `p6m7g8-dotfiles/p6df-dbt`
 - `p6m7g8-dotfiles/p6df-mysql`
+- `p6m7g8-dotfiles/p6df-oracle`
 - `p6m7g8-dotfiles/p6df-pgsql`
 - `p6m7g8-dotfiles/p6df-redis`
-- `p6m7g8-dotfiles/p6df-sqlite`
-- `p6m7g8-dotfiles/p6df-oracle`
 - `p6m7g8-dotfiles/p6df-snowflake`
+- `p6m7g8-dotfiles/p6df-sqlite`
 - `p6m7g8-dotfiles/p6df-sqlserver`
 
 ### Other Cloud Service Providers
@@ -108,28 +99,32 @@
 
 ### MacOSX/Darwin
 
+- `p6m7g8-dotfiles/p6df-alfred`
 - `p6m7g8-dotfiles/p6df-darwin`
 - `p6m7g8-dotfiles/p6df-homebrew`
 - `p6m7g8-dotfiles/p6df-macosx`
 
 ### SaaS
 
+- `p6m7g8-dotfiles/p6df-akuity`
 - `p6m7g8-dotfiles/p6df-comet`
 - `p6m7g8-dotfiles/p6df-databricks`
 - `p6m7g8-dotfiles/p6df-datadog`
 - `p6m7g8-dotfiles/p6df-elastic.co`
 - `p6m7g8-dotfiles/p6df-heroku`
 - `p6m7g8-dotfiles/p6df-huggingface`
+- `p6m7g8-dotfiles/p6df-launchdarkly`
 - `p6m7g8-dotfiles/p6df-linkedin`
+- `p6m7g8-dotfiles/p6df-newrelic`
 - `p6m7g8-dotfiles/p6df-okta`
 - `p6m7g8-dotfiles/p6df-openai`
 - `p6m7g8-dotfiles/p6df-pagerduty`
 - `p6m7g8-dotfiles/p6df-rollbar`
 - `p6m7g8-dotfiles/p6df-secoda`
-- `p6m7g8-dotfiles/p6df-teleport`
 - `p6m7g8-dotfiles/p6df-short`
-- `p6m7g8-dotfiles/p6df-newrelic`
 - `p6m7g8-dotfiles/p6df-slab`
+- `p6m7g8-dotfiles/p6df-teleport`
+- `p6m7g8-dotfiles/p6df-workato`
 
 ### Containers/Kubernetes
 
@@ -179,6 +174,8 @@
 - `p6m7g8-dotfiles/p6kubernetes`
 - `p6m7g8-dotfiles/p6macosx`
 - `p6m7g8-dotfiles/p6perl`
+- `p6m7g8-dotfiles/p6pgsql`
 - `p6m7g8-dotfiles/p6projen`
 - `p6m7g8-dotfiles/p6python`
 - `p6m7g8-dotfiles/p6shell`
+- `p6m7g8-dotfiles/p6sqlite`
