@@ -34,7 +34,7 @@
 
 ## Github Actions
 
-- https://github.com/p6m7g8-actions
+- [p6m7g8-actions](https://github.com/p6m7g8-actions)
 
 ## sh/zsh extensions
 
