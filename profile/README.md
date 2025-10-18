@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi there 👋
+
+- [Hi there 👋](#hi-there-)
+  - [Github (gh) cli extensions](#github-gh-cli-extensions)
+  - [Published CDK Solutions](#published-cdk-solutions)
+  - [Corporate Stuff](#corporate-stuff)
+  - [Github Actions](#github-actions)
+  - [sh/zsh extensions](#shzsh-extensions)
+  - [projen](#projen)
+  - [Templates](#templates)
 
 ## Github (gh) cli extensions
 
@@ -23,6 +32,10 @@
 - `p6m7g8/p6-sites` - AWS Website Infrastructure
 - `p6m7g8/p6m7g8.com` - NextJS/React Corporate Website
 
+## Github Actions
+
+- [p6m7g8-actions](https://github.com/p6m7g8-actions)
+
 ## sh/zsh extensions
 
 - `p6m7g8/p6-cirrus` - Opinionated CLI actions
@@ -41,4 +54,4 @@
 - `p6m7g8/p6-template-cdk-eslint-pnpm-ts-flatfile`
 - `p6m7g8/p6-template-next-tailwind-react-eslint-pnpm-ts-flatfile`
 - `p6m7g8/p6-template-sam-eslint-pnpm-ts-flatfile`
-- `p6m7g8/p6-template-pipenv`
+- `p6m7g8/p6-template-uv`
